@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:3:3-40
+		INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:5:3-28
+		INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:4:3-26
+		INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:6:3-64
+	android:name
+		ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:6:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:7:3-76
+	android:name
+		ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:7:20-74
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:9:3-78
+	android:name
+		ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:9:20-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:10:3-76
+	android:name
+		ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:10:20-74
+uses-feature#0x00020000
+ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:12:3-14:30
+	android:glEsVersion
+		ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:13:5-37
+	android:required
+		ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:14:5-28
+application
+ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:15:3-18:17
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:17:7-86
+	android:required
+		ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:17:59-83
+	android:name
+		ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml:17:21-58
+uses-sdk
+INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\src\main\AndroidManifest.xml

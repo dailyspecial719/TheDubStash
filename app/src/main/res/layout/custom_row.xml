@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/listImage"
+        android:layout_width="0dp"
+        android:layout_height="70dp"
+        android:layout_weight="1"
+        android:adjustViewBounds="false"
+        android:cropToPadding="false"
+        android:paddingLeft="1dp"
+        android:paddingTop="1dp"
+        android:paddingBottom="1dp"
+        app:srcCompat="@drawable/seed2" />
+
+    <TextView
+        android:id="@+id/textList"
+        android:layout_width="225dp"
+        android:layout_height="70dp"
+        android:layout_weight="1"
+        android:fontFamily="cursive"
+        android:gravity="center_vertical"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="32sp"
+        android:textStyle="bold|italic" />
+</LinearLayout>

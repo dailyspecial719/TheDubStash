@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">The Dub Stash</string>
+    <string name="logo_txt">Got Dubs?</string>
+    <string name="title_activity_find_dub">Map</string>
+    <string name="location_search">Enter Location</string>
+    <string name="dispensaries">dispensary, cannabis, recreational marijuana, medical marijuana</string>
+    <string name="head_shop">smoke shop, head shop, vape shop  </string>
+    <string name="grow_store">grow store, hydroponic supply, grow supply</string>
+    <string name="My_Key">AIzaSyAlExYxF_VlR-S8ImqWqNWyXgqGINmVEUQ</string>
+    <string name="My_Key2">AIzaSyA2ojRgOPrnO_xqv1_eLdOGi793DDLUKQ4</string>
+
+    <string-array name="grow_topics">
+        <item name="Propagation">Propagation Stage</item>
+        <item name="Veg">Vegetative Stage</item>
+        <item name="Flowering">Flowering Stage</item>
+        <item name="Harvesting">Harvesting and Curring</item>
+        <item name="Pests">Pests and Diseases</item>
+    </string-array>
+
+    <string-array name="prop_topics">
+        <item name="Start">What Is Propagation</item>
+        <item name="Environment">Environment</item>
+        <item name="Seeds">Seed Germination</item>
+        <item name="Clones">Cloning</item>
+        <item name="Transplanting">Transplanting</item>
+    </string-array>
+
+    <string-array name="veg_topics">
+        <item name="Lighting">Lighting</item>
+        <item name="Environment Control">Environment Control</item>
+        <item name="Nutrients">Nutrients</item>
+        <item name="Common_Problems">Common Problems and Issues</item>
+    </string-array>
+
+    <string-array name="flower_topics">
+        <item name="Lighting">Lighting</item>
+        <item name="Environment Control">Environment Control</item>
+        <item name="Nutrients">Nutrients</item>
+        <item name="Common_Problems">Common Problems and Issues</item>
+    </string-array>
+
+    <string-array name="harvest_topics">
+        <item name="Harvesting">Harvesting</item>
+        <item name="Trimming">Trimming</item>
+        <item name="Drying">Drying</item>
+        <item name="Curing_Storage">Curing and Storage</item>
+    </string-array>
+
+    <string-array name="pest_topics">
+        <item name="Pests">Pests</item>
+        <item name="Disease_Fung">Disease and Fungus</item>
+
+
+    </string-array>
+</resources>

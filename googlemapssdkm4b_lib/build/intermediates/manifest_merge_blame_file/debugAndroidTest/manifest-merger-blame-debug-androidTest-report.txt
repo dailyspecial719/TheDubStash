@@ -1,0 +1,59 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.google.android.m4b.maps.test" >
+4
+5    <uses-sdk
+5-->C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2334877095833620438.xml:5:5-74
+6        android:minSdkVersion="14"
+6-->C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2334877095833620438.xml:5:15-41
+7        android:targetSdkVersion="28" />
+7-->C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2334877095833620438.xml:5:42-71
+8
+9    <instrumentation
+9-->C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2334877095833620438.xml:11:5-15:82
+10        android:name="android.test.InstrumentationTestRunner"
+10-->C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2334877095833620438.xml:11:22-75
+11        android:functionalTest="false"
+11-->C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2334877095833620438.xml:14:22-52
+12        android:handleProfiling="false"
+12-->C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2334877095833620438.xml:13:22-53
+13        android:label="Tests for com.google.android.m4b.maps.test"
+13-->C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2334877095833620438.xml:15:22-80
+14        android:targetPackage="com.google.android.m4b.maps.test" />
+14-->C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2334877095833620438.xml:12:22-78
+15
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->[__tested_artifact__::googlemapssdkm4b_lib] C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+16-->[__tested_artifact__::googlemapssdkm4b_lib] C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-64
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Optional, needed for My Location without custom location provider. -->
+17-->[__tested_artifact__::googlemapssdkm4b_lib] C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
+17-->[__tested_artifact__::googlemapssdkm4b_lib] C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-76
+18    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+18-->[__tested_artifact__::googlemapssdkm4b_lib] C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-81
+18-->[__tested_artifact__::googlemapssdkm4b_lib] C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-78
+19    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> <!-- Maps API needs OpenGL ES 2.0. -->
+19-->[__tested_artifact__::googlemapssdkm4b_lib] C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-79
+19-->[__tested_artifact__::googlemapssdkm4b_lib] C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-76
+20    <uses-feature
+20-->[__tested_artifact__::googlemapssdkm4b_lib] C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-19:35
+21        android:glEsVersion="0x00020000"
+21-->[__tested_artifact__::googlemapssdkm4b_lib] C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-41
+22        android:required="true" />
+22-->[__tested_artifact__::googlemapssdkm4b_lib] C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-32
+23
+24    <application android:debuggable="true" >
+24-->C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2334877095833620438.xml:7:5-9:19
+24-->C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2334877095833620438.xml:7:18-43
+25        <uses-library android:name="android.test.runner" />
+25-->C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2334877095833620438.xml:8:9-60
+25-->C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2334877095833620438.xml:8:23-57
+26        <!-- Required for Android P onwards. -->
+27        <uses-library
+27-->[__tested_artifact__::googlemapssdkm4b_lib] C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-26:40
+28            android:name="org.apache.http.legacy"
+28-->[__tested_artifact__::googlemapssdkm4b_lib] C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-50
+29            android:required="false" />
+29-->[__tested_artifact__::googlemapssdkm4b_lib] C:\Users\Generally2\Practice1\googlemapssdkm4b_lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-37
+30    </application>
+31
+32</manifest>
