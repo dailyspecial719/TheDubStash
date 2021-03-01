@@ -6,8 +6,8 @@
     <string name="dispensaries">cannabis</string>
     <string name="head_shop">smoke shop, head shop, vape shop  </string>
     <string name="grow_store">grow store, hydroponic supply, grow supply</string>
-    <string name="My_Key">AIzaSyAlExYxF_VlR-S8ImqWqNWyXgqGINmVEUQ</string>
-    <string name="My_Key2">AIzaSyA2ojRgOPrnO_xqv1_eLdOGi793DDLUKQ4</string>
+    <string name="My_Key">YOUR GOOGLE MAPS API KEY</string>
+    <string name="My_Key2">YOUR GOOGLE PLACES API KEY</string>
 
     <string-array name="grow_topics">
         <item name="Propagation">Propagation Stage</item>
