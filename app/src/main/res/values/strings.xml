@@ -3,7 +3,7 @@
     <string name="logo_txt">Got Dubs?</string>
     <string name="title_activity_find_dub">Map</string>
     <string name="location_search">Enter Location</string>
-    <string name="dispensaries">dispensary, cannabis, recreational marijuana, medical marijuana</string>
+    <string name="dispensaries">cannabis</string>
     <string name="head_shop">smoke shop, head shop, vape shop  </string>
     <string name="grow_store">grow store, hydroponic supply, grow supply</string>
     <string name="My_Key">AIzaSyAlExYxF_VlR-S8ImqWqNWyXgqGINmVEUQ</string>
@@ -29,14 +29,14 @@
         <item name="Lighting">Lighting</item>
         <item name="Environment Control">Environment Control</item>
         <item name="Nutrients">Nutrients</item>
-        <item name="Common_Problems">Common Problems and Issues</item>
+        <item name="Common_Problems">Common Issues</item>
     </string-array>
 
     <string-array name="flower_topics">
         <item name="Lighting">Lighting</item>
         <item name="Environment Control">Environment Control</item>
         <item name="Nutrients">Nutrients</item>
-        <item name="Common_Problems">Common Problems and Issues</item>
+        <item name="Common_Problems">Common Issues</item>
     </string-array>
 
     <string-array name="harvest_topics">
@@ -49,7 +49,15 @@
     <string-array name="pest_topics">
         <item name="Pests">Pests</item>
         <item name="Disease_Fung">Disease and Fungus</item>
+    </string-array>
 
-
+    <string-array name="grub_topics">
+        <item name="decarboxylation">Decarboxylation</item>
+        <item name="cannabutter">Cannabutter</item>
+        <item name="cannaoil">Canna Oil</item>
+        <item name="fruitypebble">Fruity Pebble Bars</item>
+        <item name="sugarCookie">Infused Sugar Cookies</item>
+        <item name="salmon">Teriyaki Salmon</item>
+        <item name="spaghetti">Spaghetti Cannabonara</item>
     </string-array>
 </resources>

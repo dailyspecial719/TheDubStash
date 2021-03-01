@@ -30,6 +30,7 @@ class LabAdapter extends ArrayAdapter<String>{
 
     @Override
     public int getCount() {
+
         return names.length;
     }
 
@@ -41,7 +42,7 @@ class LabAdapter extends ArrayAdapter<String>{
              LayoutInflater labInflater = LayoutInflater.from(getContext());
              customView = labInflater.inflate(R.layout.custom_row, parent, false);
 
-             String singleTopic = getItem(position);
+             //String singleTopic = getItem(position);
              mViewHolder.labText = (TextView) customView.findViewById(R.id.textList);
              mViewHolder.labImage = (ImageView) customView.findViewById(R.id.listImage);
              customView.setTag(mViewHolder);

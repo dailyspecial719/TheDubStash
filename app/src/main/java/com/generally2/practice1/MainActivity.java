@@ -53,7 +53,7 @@ public class MainActivity extends Activity {
         button4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this, LogoActivity.class);
+                Intent intent = new Intent(MainActivity.this, DubGrub.class);
                 startActivity(intent);
             }
         });
